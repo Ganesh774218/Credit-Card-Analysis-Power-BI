@@ -13,6 +13,3 @@ This dashboard focuses on
 - Card category analysis for performance insights
 Analysis of each dashboard is present in powerpoint presentation.
 
-[credit_card.csv](https://github.com/user-attachments/files/20159621/credit_card.csv)
-
-[customer.csv](https://github.com/user-attachments/files/20159627/customer.csv)
